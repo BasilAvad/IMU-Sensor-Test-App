@@ -34,9 +34,8 @@ git clone
  * 🟦 .
  * 🟥 .
 
-![COM4 6_15_2023 2_03_10 PM](https://github.com/BasilAvad/MovingAverage/assets/69681817/bbe3f810-01bb-46a5-8662-a3d24ccba380)
 * For more, video -> 
-[Video](https://github.com/BasilAvad/IMU-Sensor-Test-App/assets/69681817/1434cbe3-369c-4a90-a80e-a7a003af017f)
+https://github.com/BasilAvad/IMU-Sensor-Test-App/assets/69681817/1434cbe3-369c-4a90-a80e-a7a003af017f
 
 
 
