@@ -2,7 +2,7 @@
 <h1 align="center"> IMU-Sensor Test App </h1>
 <h1 align="center"> Desktop Application </h1>
 
-Filter your sensor data with moving average, making your system stable and easy to control.
+-
 
 ## Explanation 
 *  In Arabic.
