@@ -11,7 +11,7 @@ public class BaudRateDropdown : MonoBehaviour
     /// <param name="index"></param>
     /// 
     public static int[] buadRateList = { 9600, 14400, 19200, 38400, 57600, 115200, 128000 };
-    public static int buadRateSelected = 0;
+    public  int buadRateSelected = 0;
     public void OnBaudRateChanged(int index)
     {
         switch (index)

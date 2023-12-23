@@ -8,13 +8,13 @@ public class SerialCommunication : MonoBehaviour
 {
     SerialPort serialPort;
     public string recivedData = "Empty";
-
+    BaudRateDropdown baudRateDropdown = new BaudRateDropdown();
     public void ConnectToSerialPort()
     {
         try
         {
             // Replace "COM3" with your specific port name
-            serialPort = new SerialPort("COM3", 9600);
+            serialPort = new SerialPort("COM3", baudRateDropdown.buadRateSelected);
             serialPort.Open();
             serialPort.ReadTimeout = 1000;
             Debug.Log("Serial port connected.");
@@ -34,7 +34,7 @@ public class SerialCommunication : MonoBehaviour
             serialPort.Close();
         }
     }
-    
+
     void Update()
     {
         if (serialPort != null && serialPort.IsOpen)
