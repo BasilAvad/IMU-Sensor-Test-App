@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="BaudRateDropdown">
+			<method name="OnBaudRateChanged"/>
+		</type>
+		<type fullname="SerialCommunication">
+			<method name="ConnectToSerialPort"/>
+		</type>
+		<type fullname="UIController">
+			<method name="Connected"/>
+			<method name="MainUI"/>
+			<method name="Quit"/>
+		</type>
+	</assembly>
+</linker>

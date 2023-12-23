@@ -1,0 +1,331 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1701981977558436, "dur":62, "ph":"X", "name": "EmitBuildStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701981977518899, "dur":41216, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701981977560125, "dur":85, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701981977560241, "dur":305, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701981977560726, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1701981977562474, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1701981977560563, "dur":3446, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701981977564011, "dur":886574, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701981978450762, "dur":1938, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1701981977561139, "dur":2934, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977565442, "dur":531, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.XmlDocument.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981977564076, "dur":2467, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977566543, "dur":449, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977566992, "dur":347, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977567339, "dur":347, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977567686, "dur":335, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977568021, "dur":360, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977568381, "dur":375, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977568756, "dur":386, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977569142, "dur":392, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977569535, "dur":6345, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981977578441, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1701981977581674, "dur":116797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1701981977698705, "dur":308550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1701981978007344, "dur":167941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978175336, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978178222, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978178334, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981978178395, "dur":4202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978182599, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978182671, "dur":3841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978186515, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978186592, "dur":4049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978190643, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978190726, "dur":6192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978196958, "dur":6370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978253087, "dur":281, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981978203388, "dur":50007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701981978255967, "dur":132, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701981978253413, "dur":2699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1701981978256167, "dur":194395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701981977560824, "dur":3193, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701981977564020, "dur":11724, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701981977576040, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/1502590759796364085.rsp" }}
+,{ "pid":12345, "tid":2, "ts":1701981977576585, "dur":350, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981977576940, "dur":662, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981977577609, "dur":2087, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981977579698, "dur":1549, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981977581252, "dur":866, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981977582123, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981977582195, "dur":496, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981977583595, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\artifacts\\UnityLinkerInputs\\MethodsToPreserve.xml" }}
+,{ "pid":12345, "tid":2, "ts":1701981977583653, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\artifacts\\UnityLinkerInputs\\TypesInScenes.xml" }}
+,{ "pid":12345, "tid":2, "ts":1701981977583768, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\artifacts\\UnityLinkerInputs\\EditorToUnityLinkerData.json" }}
+,{ "pid":12345, "tid":2, "ts":1701981977576181, "dur":9796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/basil/IMU_UI/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1701981977585978, "dur":292361, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701981978007064, "dur":167797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978174894, "dur":8441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978183377, "dur":5550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978188964, "dur":3503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978192504, "dur":6789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978199331, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978201050, "dur":1555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978202636, "dur":4736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978207374, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978207485, "dur":11799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978219338, "dur":1948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978221318, "dur":5158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978226528, "dur":22727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978249349, "dur":3783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978253195, "dur":3536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701981978256732, "dur":193788, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977561635, "dur":3170, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977565991, "dur":904, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Reflection.TypeExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981977564808, "dur":2088, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977566896, "dur":352, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977567249, "dur":328, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977567578, "dur":332, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977567910, "dur":351, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977568480, "dur":1324, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Security.Cryptography.RandomNumberGenerator.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981977568261, "dur":1853, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977570114, "dur":5856, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981977579049, "dur":4624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1701981977583725, "dur":1269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI.exe" }}
+,{ "pid":12345, "tid":3, "ts":1701981977585046, "dur":588933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978175812, "dur":164, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981978174040, "dur":1945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978175987, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978176046, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981978176105, "dur":11313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978187420, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978187499, "dur":14775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978208195, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981978202322, "dur":5938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978208262, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978208333, "dur":97, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701981978208439, "dur":13569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978222014, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978222493, "dur":36634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701981978259129, "dur":191320, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701981977561026, "dur":3001, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701981977564028, "dur":1087, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\WindowsBase.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981977565499, "dur":764, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\UnityLinker.exe" }}
+,{ "pid":12345, "tid":4, "ts":1701981977566821, "dur":2843, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.Linker.Api.Output.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981977564028, "dur":6488, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701981977570517, "dur":5526, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701981977579271, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1701981977581109, "dur":3849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1701981977585319, "dur":348920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978007256, "dur":180531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978187822, "dur":17590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978205417, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978205583, "dur":11462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978217047, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978217142, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978219756, "dur":2524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978225582, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701981978222350, "dur":3728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978248432, "dur":193, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701981978226130, "dur":22519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978248703, "dur":4407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978253159, "dur":2147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701981978255307, "dur":195269, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701981977561562, "dur":2619, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701981977565463, "dur":580, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Text.RegularExpressions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981977564184, "dur":1896, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701981977566152, "dur":3975, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\createdump.exe" }}
+,{ "pid":12345, "tid":5, "ts":1701981977566080, "dur":4947, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701981977571028, "dur":4734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701981977575763, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1701981977577144, "dur":3164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1701981977582701, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701981977580408, "dur":2391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1701981977582846, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981977583195, "dur":1510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981977584736, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1701981977585332, "dur":339176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1701981977924559, "dur":83421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1701981978163367, "dur":334, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701981978008033, "dur":155692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978163742, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978163832, "dur":13885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978177719, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978177954, "dur":2779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978180767, "dur":1816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978182615, "dur":2868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978185517, "dur":3413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978188965, "dur":2572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978191593, "dur":5812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978197437, "dur":2095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978199583, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978201646, "dur":14186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978247474, "dur":1503, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701981978215893, "dur":33346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978249241, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978249554, "dur":9473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701981978259028, "dur":191319, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701981977561599, "dur":2722, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701981977564324, "dur":1478, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701981977565920, "dur":939, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\Microsoft.Extensions.DependencyInjection.Abstractions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981977566860, "dur":1047, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\Microsoft.Extensions.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981977568118, "dur":1951, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\il2cpp.exe" }}
+,{ "pid":12345, "tid":6, "ts":1701981977565802, "dur":5071, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701981977570873, "dur":4879, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701981977575760, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701981977577283, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/app.info" }}
+,{ "pid":12345, "tid":6, "ts":1701981977579896, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1701981977710059, "dur":244, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701981977581695, "dur":128642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1701981977710610, "dur":213100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1701981977923755, "dur":82409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1701981978006472, "dur":158538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978165422, "dur":52835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978218319, "dur":2450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978220771, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978220857, "dur":3470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978224342, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978248129, "dur":473, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701981978224416, "dur":24217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978248698, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978250619, "dur":4602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701981978255234, "dur":2311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1701981978257570, "dur":192919, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981977561738, "dur":3287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981977566209, "dur":652, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.WebProxy.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981977566862, "dur":1249, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.WebHeaderCollection.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981977565028, "dur":3083, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981977568112, "dur":395, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981977568507, "dur":363, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981977568870, "dur":373, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981977569243, "dur":398, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981977569641, "dur":6209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981977578005, "dur":7553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1701981977585634, "dur":191919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1701981977777596, "dur":146021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1701981977923718, "dur":83052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1701981978006890, "dur":119457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978126413, "dur":52071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978178556, "dur":24210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978202797, "dur":13453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978216285, "dur":3011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978219356, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978221710, "dur":24783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978248242, "dur":751, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701981978246535, "dur":2469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978249047, "dur":4454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701981978253533, "dur":3378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1701981978256933, "dur":193581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701981977561835, "dur":3201, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701981977565405, "dur":800, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.Sockets.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981977566862, "dur":1100, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.Http.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981977568078, "dur":1701, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Linq.Queryable.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981977565038, "dur":4859, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701981977569897, "dur":6091, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701981977578585, "dur":3248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1701981977582060, "dur":129266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1701981977711429, "dur":295566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1701981978007030, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978007154, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701981978007228, "dur":166007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978173275, "dur":2170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978175506, "dur":4145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978181843, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701981978179687, "dur":2244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978184432, "dur":144, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701981978181990, "dur":2603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978184604, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978184670, "dur":3203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978187905, "dur":1800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978189707, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978189806, "dur":5187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978194995, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978195097, "dur":4084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978199184, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978199272, "dur":2467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978201770, "dur":4915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978206688, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978206758, "dur":10874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978217671, "dur":28731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978257434, "dur":106, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701981978246464, "dur":11107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701981978257572, "dur":192904, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701981977561869, "dur":3171, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701981977565465, "dur":632, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.IO.Pipes.AccessControl.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981977566174, "dur":933, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.IO.FileSystem.Watcher.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981977567107, "dur":1422, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.IO.FileSystem.Primitives.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981977565042, "dur":3949, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701981977568992, "dur":381, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701981977569373, "dur":367, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701981977569741, "dur":6159, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701981977579297, "dur":4034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1701981977583497, "dur":392808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981977976399, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978006616, "dur":166733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978173416, "dur":16992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978190508, "dur":4406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978194917, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978194989, "dur":4594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978199616, "dur":2057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978201723, "dur":14179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978215936, "dur":2188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978218159, "dur":2819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978220980, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978225051, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701981978221082, "dur":4063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978225146, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978248296, "dur":528, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701981978225259, "dur":23575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978248835, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978248902, "dur":6248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701981978255165, "dur":2087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1701981978257272, "dur":193223, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701981977561906, "dur":3140, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701981977565047, "dur":1174, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701981977566754, "dur":3361, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\Bee.BinLog.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981977566222, "dur":4311, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701981977570533, "dur":5230, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701981977577009, "dur":3099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1701981977580165, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1701981977582074, "dur":287964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1701981977924260, "dur":63660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1701981978006500, "dur":169918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978176463, "dur":11549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978188064, "dur":2622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978190727, "dur":6390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978197152, "dur":10527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978207714, "dur":9875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978217627, "dur":2425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978220087, "dur":4752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978224842, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978224941, "dur":26209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978251185, "dur":5296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701981978256483, "dur":194061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701981977561955, "dur":3096, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701981977565400, "dur":1008, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.ComponentModel.TypeConverter.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701981977567076, "dur":1156, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Collections.NonGeneric.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701981977565053, "dur":3594, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701981977568856, "dur":1210, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Net.Cache.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701981977568647, "dur":1560, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701981977570208, "dur":5829, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701981977576041, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1701981977582182, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701981977581008, "dur":1235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1701981977586383, "dur":90421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1701981977676885, "dur":330185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":11, "ts":1701981978007153, "dur":211716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701981978219181, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701981978219267, "dur":38883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701981978258153, "dur":192301, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701981977562015, "dur":3051, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701981977565468, "dur":1040, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701981977567133, "dur":1766, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp\\build\\deploy\\mscordaccore_amd64_amd64_7.0.1323.51816.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701981977565066, "dur":4334, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701981977569400, "dur":371, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701981977569772, "dur":5978, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701981977576923, "dur":670, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":12, "ts":1701981977577599, "dur":296, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1701981977577913, "dur":963, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1701981977579032, "dur":188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701981977579225, "dur":3482, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\basil\\IMU_UI\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701981977583684, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player790549b6-inputdata.json" }}
+,{ "pid":12345, "tid":12, "ts":1701981977577596, "dur":6236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1701981977584693, "dur":137, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701981977584833, "dur":105, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701981977586511, "dur":846699, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1701981978440526, "dur":8806, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1701981978440504, "dur":8830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1701981978449361, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/basil/OneDrive/Desktop/unityTestApp/IMU_UI_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1701981978455631, "dur":1067, "ph":"X", "name": "ProfilerWriteOutput" }
+,
