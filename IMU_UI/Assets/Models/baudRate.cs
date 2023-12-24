@@ -9,5 +9,6 @@ namespace Assets.Models
     internal class baudRate
     {
         public int MyProperty { get; set; }
+        List<int> baudRateList { get; set; }
     }
 }
