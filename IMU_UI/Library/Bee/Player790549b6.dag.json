@@ -399,7 +399,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 51355,
+      "PayloadLength": 51715,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "InputFlags": [],
@@ -505,14 +505,14 @@
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/basil/IMU_UI/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Accessibility.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Commons.Xml.Relaxng.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/CustomMarshalers.dll",
@@ -1288,16 +1288,16 @@
       "DebugActionIndex": 16
     },
     {
-      "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/1502590759796364085.rsp",
-      "DisplayName": "Writing 1502590759796364085.rsp",
+      "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/4718946762594350255.rsp",
+      "DisplayName": "Writing 4718946762594350255.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 51527,
-      "PayloadLength": 73350,
+      "PayloadOffset": 51887,
+      "PayloadLength": 74385,
       "PayloadDebugContentSnippet": "--allowed-assembly=\"C:/Program",
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
-        "Library/Bee/artifacts/rsp/1502590759796364085.rsp"
+        "Library/Bee/artifacts/rsp/4718946762594350255.rsp"
       ],
       "OutputFlags": [
         2
@@ -1305,10 +1305,10 @@
       "DebugActionIndex": 17
     },
     {
-      "Annotation": "UnityLinker C:/Users/basil/IMU_UI/Library/Bee/artifacts/unitylinker_dwek.traceevents",
+      "Annotation": "UnityLinker C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/artifacts/unitylinker_dwek.traceevents",
       "DisplayName": "Code-stripping Assemblies with UnityLinker",
-      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp/build/deploy/UnityLinker.exe\" @\"Library\\Bee\\artifacts\\rsp\\1502590759796364085.rsp\"",
-      "ProfilerOutput": "C:/Users/basil/IMU_UI/Library/Bee/artifacts/unitylinker_dwek.traceevents",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.1f1\\Editor\\Data\\il2cpp/build/deploy/UnityLinker.exe\" @\"Library\\Bee\\artifacts\\rsp\\4718946762594350255.rsp\"",
+      "ProfilerOutput": "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/artifacts/unitylinker_dwek.traceevents",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AIModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ARModule.dll",
@@ -1384,14 +1384,14 @@
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/basil/IMU_UI/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Accessibility.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Commons.Xml.Relaxng.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/CustomMarshalers.dll",
@@ -1675,10 +1675,10 @@
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/cscompmgd.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/monodoc.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/mscorlib.dll",
-        "C:/Users/basil/IMU_UI/Library/Bee/artifacts/UnityLinkerInputs/MethodsToPreserve.xml",
-        "C:/Users/basil/IMU_UI/Library/Bee/artifacts/UnityLinkerInputs/TypesInScenes.xml",
-        "C:/Users/basil/IMU_UI/Library/Bee/artifacts/UnityLinkerInputs/SerializedTypes.xml",
-        "C:/Users/basil/IMU_UI/Library/Bee/artifacts/UnityLinkerInputs/EditorToUnityLinkerData.json",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/artifacts/UnityLinkerInputs/MethodsToPreserve.xml",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/artifacts/UnityLinkerInputs/TypesInScenes.xml",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/artifacts/UnityLinkerInputs/SerializedTypes.xml",
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/artifacts/UnityLinkerInputs/EditorToUnityLinkerData.json",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/modules.asset",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/il2cpp/build/deploy/Analytics.Api.Output.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/il2cpp/build/deploy/Analytics.Api.Output.xml",
@@ -1960,7 +1960,7 @@
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/il2cpp/build/deploy/UnityLinker.exe",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/il2cpp/build/deploy/UnityLinker.runtimeconfig.json",
         "C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/il2cpp/build/deploy/WindowsBase.dll",
-        "Library/Bee/artifacts/rsp/1502590759796364085.rsp"
+        "Library/Bee/artifacts/rsp/4718946762594350255.rsp"
       ],
       "InputFlags": [
         0,
@@ -2616,7 +2616,7 @@
         8
       ],
       "Outputs": [
-        "C:/Users/basil/IMU_UI/Library/Bee/artifacts/unitylinker_dwek.traceevents"
+        "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/artifacts/unitylinker_dwek.traceevents"
       ],
       "OutputFlags": [
         0
@@ -4823,7 +4823,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 124966,
+      "PayloadOffset": 126361,
       "PayloadLength": 21,
       "PayloadDebugContentSnippet": "DefaultCompany\nIMU_UI",
       "Inputs": [],
@@ -5684,6 +5684,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Player790549b6.dag.json",
-  "PayloadsFile": "C:/Users/basil/IMU_UI/Library/Bee/Player790549b6.dag.payloads",
+  "PayloadsFile": "C:/Users/basil/OneDrive/Belgeler/GitHub/IMU-Sensor-Test-App/IMU_UI/Library/Bee/Player790549b6.dag.payloads",
   "RelativePathToRoot": "../.."
 }
