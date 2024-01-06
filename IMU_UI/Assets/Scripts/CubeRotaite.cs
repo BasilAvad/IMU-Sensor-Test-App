@@ -5,7 +5,7 @@ using UnityEngine;
 public class CubeRotaite : MonoBehaviour
 {
     // Start is called before the first frame update
-    public float rotationSped = 50f;
+    public float rotationSped = 20f;
     void Start()
     {
 
