@@ -8,6 +8,7 @@ public class SerialCommunication : MonoBehaviour
 {
     SerialPort serialPort;
     public string recivedData = "Empty";
+    public string [] comPortList = {"COM1","COM2","COM3","COM4" };
     BaudRateDropdown baudRateDropdown = new BaudRateDropdown();
     public void ConnectToSerialPort()
     {
