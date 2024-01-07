@@ -44,7 +44,7 @@ public class SerialCommunication : MonoBehaviour
             {
                 recivedData = serialPort.ReadLine();
                 Debug.Log("Received: " + recivedData);
-                StartCoroutine(ReadSerialDataAfterDelay(2.0f)); // Read again after delay
+                //StartCoroutine(ReadSerialDataAfterDelay(2.0f)); // Read again after delay
             }
             catch (TimeoutException) { }
         }
