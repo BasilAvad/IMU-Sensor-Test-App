@@ -15,7 +15,7 @@ public class SerialCommunication : MonoBehaviour
         try
         {
             // Replace "COM3" with your specific port name
-            serialPort = new SerialPort("COM3", 9600);
+            serialPort = new SerialPort(comPortList[2], 9600);
             serialPort.Open();
             serialPort.ReadTimeout = 5000;
             Debug.Log("Serial port connected.");
