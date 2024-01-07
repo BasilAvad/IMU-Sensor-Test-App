@@ -74,7 +74,10 @@ public class SerialCommunication : MonoBehaviour
         {
             if (serialPort != null && serialPort.IsOpen)
             {
-                serialPort.Close();
+                if(serialPort.connected())
+                {
+                    serialPort.Close();
+                }
             }
         }
         catch (Exception e)
